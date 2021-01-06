@@ -80,7 +80,7 @@ nav{
 .halfe-width img{
     width: 100%;
 }
-.drame{
+.dream{
     background: linear-gradient(60deg,rgb(83, 78, 212),rgb(209, 35, 142));
 }
 
@@ -88,7 +88,7 @@ nav{
     background: linear-gradient(30deg,rgb(207, 96, 241),rgb(114, 127, 241));
 }
 .skild{
-    background: linear-gradient(45deg,rgb(114, 127, 241),rgb(207, 96, 241));
+    background: linear-gradient(45deg,rgb(171, 90, 196),rgb(96, 147, 241));
 }
 .title{
     text-align: center;
